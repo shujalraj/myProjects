@@ -1,3 +1,4 @@
+//Program to find duplicate character in a String
 import scala.io.StdIn._
 
 object distinctChar extends App{
